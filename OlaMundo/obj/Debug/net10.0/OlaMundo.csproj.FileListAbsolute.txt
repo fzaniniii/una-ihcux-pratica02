@@ -1,0 +1,14 @@
+/Users/fabiozanini/Documents/UX/OlaMundo/bin/Debug/net10.0/OlaMundo
+/Users/fabiozanini/Documents/UX/OlaMundo/bin/Debug/net10.0/OlaMundo.deps.json
+/Users/fabiozanini/Documents/UX/OlaMundo/bin/Debug/net10.0/OlaMundo.runtimeconfig.json
+/Users/fabiozanini/Documents/UX/OlaMundo/bin/Debug/net10.0/OlaMundo.dll
+/Users/fabiozanini/Documents/UX/OlaMundo/bin/Debug/net10.0/OlaMundo.pdb
+/Users/fabiozanini/Documents/UX/OlaMundo/obj/Debug/net10.0/OlaMundo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fabiozanini/Documents/UX/OlaMundo/obj/Debug/net10.0/OlaMundo.AssemblyInfoInputs.cache
+/Users/fabiozanini/Documents/UX/OlaMundo/obj/Debug/net10.0/OlaMundo.AssemblyInfo.cs
+/Users/fabiozanini/Documents/UX/OlaMundo/obj/Debug/net10.0/OlaMundo.csproj.CoreCompileInputs.cache
+/Users/fabiozanini/Documents/UX/OlaMundo/obj/Debug/net10.0/OlaMundo.dll
+/Users/fabiozanini/Documents/UX/OlaMundo/obj/Debug/net10.0/refint/OlaMundo.dll
+/Users/fabiozanini/Documents/UX/OlaMundo/obj/Debug/net10.0/OlaMundo.pdb
+/Users/fabiozanini/Documents/UX/OlaMundo/obj/Debug/net10.0/OlaMundo.genruntimeconfig.cache
+/Users/fabiozanini/Documents/UX/OlaMundo/obj/Debug/net10.0/ref/OlaMundo.dll
